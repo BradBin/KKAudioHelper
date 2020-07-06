@@ -1,0 +1,16 @@
+PODS:
+  - KKAudioHelper (1.0.0)
+
+DEPENDENCIES:
+  - KKAudioHelper (from `../`)
+
+EXTERNAL SOURCES:
+  KKAudioHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KKAudioHelper: cf2fd6c9131fc369c5562faa9a0c5185c1208b21
+
+PODFILE CHECKSUM: 2bcead718ee755aa910da16a57d0abdf7fe2d7d2
+
+COCOAPODS: 1.9.1

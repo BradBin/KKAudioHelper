@@ -1,0 +1,6 @@
+framework module Pods_KKAudioHelper_Example {
+  umbrella header "Pods-KKAudioHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

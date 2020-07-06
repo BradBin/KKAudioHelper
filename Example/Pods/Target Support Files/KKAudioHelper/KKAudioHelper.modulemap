@@ -1,0 +1,6 @@
+framework module KKAudioHelper {
+  umbrella header "KKAudioHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

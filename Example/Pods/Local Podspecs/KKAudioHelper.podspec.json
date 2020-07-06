@@ -1,0 +1,22 @@
+{
+  "name": "KKAudioHelper",
+  "version": "1.0.0",
+  "summary": "An audio Tool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/youbin/KKAudioHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "youbin": "820280738@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/youbin/KKAudioHelper.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KKAudioHelper/Classes/**/*"
+}
